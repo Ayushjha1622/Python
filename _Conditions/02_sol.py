@@ -4,7 +4,7 @@ day = "wednesday"
 
 price = 12 if age >= 18 else 8
 
-if day == "wednesday":
+if (day == "wednesday"):
     price = price - 2
     
-print(f"Ticket Price for u: {price}$")
+print(f"Ticket Price for u: {price}$"2)
